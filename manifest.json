@@ -1,0 +1,16 @@
+{
+  "format": "xiangtong-update-manifest",
+  "format_version": 1,
+  "packs": [
+    {
+      "pack_id": "PACK-MVP-CORE",
+      "pack_version": 1,
+      "schema_version": 3,
+      "title": "想通 · 核心题包",
+      "sha256": "f0c4df85db398378244ef590658702216782e4286926eccb62ca7ec7b561c103",
+      "byte_size": 448506,
+      "url": "packs/PACK-MVP-CORE/1.json",
+      "min_app_version_code": 1
+    }
+  ]
+}
