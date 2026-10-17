@@ -4,13 +4,14 @@
   "packs": [
     {
       "pack_id": "PACK-MVP-CORE",
-      "pack_version": 1,
-      "schema_version": 3,
+      "pack_version": 3,
+      "schema_version": 4,
       "title": "想通 · 核心题包",
-      "sha256": "f0c4df85db398378244ef590658702216782e4286926eccb62ca7ec7b561c103",
-      "byte_size": 448506,
-      "url": "packs/PACK-MVP-CORE/1.json",
-      "min_app_version_code": 1
+      "sha256": "266fc7ef780da7ff8e64f6951bc21a1ad02e2d7f499ca517f4cac21e60611ff9",
+      "byte_size": 568709,
+      "url": "packs/PACK-MVP-CORE/3.json",
+      "min_app_version_code": 1,
+      "notes": "44 张知识卡补齐参考资料并经复核，部分讲解和 6 道题更严谨；知识点“一步论证（简单论证）”改名。需要 App 0.4.0 或更新版本。"
     }
   ]
 }
