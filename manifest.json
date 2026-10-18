@@ -4,14 +4,14 @@
   "packs": [
     {
       "pack_id": "PACK-MVP-CORE",
-      "pack_version": 4,
-      "schema_version": 5,
+      "pack_version": 5,
+      "schema_version": 6,
       "title": "想通 · 核心题包",
-      "sha256": "08dd12f497dea7893cdde8abffb873d6a5e167efe9c960e4f6175e7ed0984c87",
-      "byte_size": 585292,
-      "url": "packs/PACK-MVP-CORE/4.json",
+      "sha256": "8d479f1f5248e66a3876c2bb369dfa423a313d9843e5e64c300f92f23a601c36",
+      "byte_size": 734797,
+      "url": "packs/PACK-MVP-CORE/5.json",
       "min_app_version_code": 1,
-      "notes": "新增日常说法对照表和常见情况，用于「遇到问题查一查」按意思搜索；题目和知识卡没有改动。需要 App 0.5.0 或更新版本。"
+      "notes": "44 张知识卡扩充为第 2 版：新增「通俗地说」，每张含至少一个「容易误判」例子，每个例子补上结论\n新增「适用条件与边界」「和相近概念的区别」，并在适用处加入可点击的「相关知识点」\n核心术语在教学正文首次出现处附外文对应词，卡片底部「本卡术语」可查看\n本版新增与改动内容补齐对应参考资料，虚构例子的判断规则也有出处\n需要 App 0.6.0 或更新版本。"
     }
   ]
 }
