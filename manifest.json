@@ -4,25 +4,25 @@
   "packs": [
     {
       "pack_id": "PACK-MVP-CORE",
-      "pack_version": 10,
+      "pack_version": 11,
       "schema_version": 8,
       "title": "想通 · 核心题包",
-      "sha256": "0b68361ab6b9245b3c24d9d6ae7dd488a944501f1d56345ec33186d1f71cdaa3",
-      "byte_size": 2154264,
-      "url": "packs/PACK-MVP-CORE/10.json",
+      "sha256": "0b832d899d0be6d725d838ad700c6aebecbb8a47515b00b52cfc09fdce470cd6",
+      "byte_size": 2174211,
+      "url": "packs/PACK-MVP-CORE/11.json",
       "min_app_version_code": 14,
-      "notes": "「因果与解释」「数据与信息」「问题解决」三个模块的每个知识点新增练习题，更多不点名方法、需要多想一步的题。"
+      "notes": "随拓展题包更新共用的目录、字典和来源；本题包的题目和知识卡没有变化。"
     },
     {
       "pack_id": "PACK-MVP-EXT-01",
-      "pack_version": 1,
+      "pack_version": 2,
       "schema_version": 8,
-      "title": "想通 · 拓展题包：常见论辩谬误",
-      "sha256": "9ffaa37670bd19612c05dcf22444c979b944dfc9c4e2d91eb9a911ab9ef3d3cd",
-      "byte_size": 839103,
-      "url": "packs/PACK-MVP-EXT-01/1.json",
+      "title": "想通 · 拓展题包",
+      "sha256": "95cf3f63a692505e6e82d93e2c2b4197a9aeefe3cf9f6bc8ac18da75801662b1",
+      "byte_size": 907773,
+      "url": "packs/PACK-MVP-EXT-01/2.json",
       "min_app_version_code": 14,
-      "notes": "新增 4 个拓展知识点（在「论证与评价」的「常见谬误」分组）：稻草人、人身攻击与“你也一样”；诉诸大众与从众理由；虚假二分与滑坡；歧义与偷换概念。\n每个知识点有完整的知识卡和 7 道练习题，也练“什么时候这样说其实有道理”。\n字典新增 12 条相关词条，如网络效应、惯例、选言三段论、模糊。"
+      "notes": "新增拓展知识点「何时应该改变观点」（在「归纳与证据」的「证据与来源」分组）：完整知识卡和 7 道练习题，练习分辨新信息是直接反驳结论，还是只让原来的理由不算数。\n专题「检查自己的思考」改成新版：四个要问的问题、几种“最后怎么判断”和常见误区，可以从专题页直接练一练。\n字典新增 3 条词条：反驳型击败因素、切断型击败因素、信念固着。"
     }
   ]
 }
