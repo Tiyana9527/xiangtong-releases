@@ -4,14 +4,25 @@
   "packs": [
     {
       "pack_id": "PACK-MVP-CORE",
-      "pack_version": 9,
+      "pack_version": 10,
       "schema_version": 8,
       "title": "想通 · 核心题包",
-      "sha256": "35589de49ad574209b697d938f2db961b0a2552301362364859d833e8b57e528",
-      "byte_size": 2108458,
-      "url": "packs/PACK-MVP-CORE/9.json",
-      "min_app_version_code": 1,
+      "sha256": "0b68361ab6b9245b3c24d9d6ae7dd488a944501f1d56345ec33186d1f71cdaa3",
+      "byte_size": 2154264,
+      "url": "packs/PACK-MVP-CORE/10.json",
+      "min_app_version_code": 14,
       "notes": "「因果与解释」「数据与信息」「问题解决」三个模块的每个知识点新增练习题，更多不点名方法、需要多想一步的题。"
+    },
+    {
+      "pack_id": "PACK-MVP-EXT-01",
+      "pack_version": 1,
+      "schema_version": 8,
+      "title": "想通 · 拓展题包：常见论辩谬误",
+      "sha256": "9ffaa37670bd19612c05dcf22444c979b944dfc9c4e2d91eb9a911ab9ef3d3cd",
+      "byte_size": 839103,
+      "url": "packs/PACK-MVP-EXT-01/1.json",
+      "min_app_version_code": 14,
+      "notes": "新增 4 个拓展知识点（在「论证与评价」的「常见谬误」分组）：稻草人、人身攻击与“你也一样”；诉诸大众与从众理由；虚假二分与滑坡；歧义与偷换概念。\n每个知识点有完整的知识卡和 7 道练习题，也练“什么时候这样说其实有道理”。\n字典新增 12 条相关词条，如网络效应、惯例、选言三段论、模糊。"
     }
   ]
 }
