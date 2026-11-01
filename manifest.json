@@ -4,14 +4,14 @@
   "packs": [
     {
       "pack_id": "PACK-MVP-CORE",
-      "pack_version": 11,
+      "pack_version": 12,
       "schema_version": 8,
       "title": "想通 · 核心题包",
-      "sha256": "0b832d899d0be6d725d838ad700c6aebecbb8a47515b00b52cfc09fdce470cd6",
-      "byte_size": 2174211,
-      "url": "packs/PACK-MVP-CORE/11.json",
+      "sha256": "2a504ea89964d79b8fd77c83fbc95e2a8be9235903d0feae3ff64f525862ec1e",
+      "byte_size": 2175175,
+      "url": "packs/PACK-MVP-CORE/12.json",
       "min_app_version_code": 14,
-      "notes": "随拓展题包更新共用的目录、字典和来源；本题包的题目和知识卡没有变化。"
+      "notes": "Q-000129（团建选露营还是进城）补上题内目标和已确认/未确认的信息，与同组的 Q-000307 一致；答案不变。"
     },
     {
       "pack_id": "PACK-MVP-EXT-01",
