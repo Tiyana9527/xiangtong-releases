@@ -4,14 +4,14 @@
   "packs": [
     {
       "pack_id": "PACK-MVP-CORE",
-      "pack_version": 15,
-      "schema_version": 9,
+      "pack_version": 16,
+      "schema_version": 11,
       "title": "想通 · 核心题包",
-      "sha256": "9b814aff7f789c356aac6feebceaecc654e1ac54c30ec0054fc10fd25da8b4e9",
-      "byte_size": 2288859,
-      "url": "packs/PACK-MVP-CORE/15.json",
-      "min_app_version_code": 15,
-      "notes": "「健康与医疗」「学习与教育」领域页新增「常见说法」：「感冒了吃点抗生素，好得快」「按自己的学习风格学，效果更好」，每条有判断、怎么用和参考资料。\n新增 3 道真实案例题（聪明的汉斯、感冒吃抗生素、学习风格），题目标出「真实事件」「真实说法」，解析后附参考资料。"
+      "sha256": "18136b40312754f800ecd662c55a678ec3a2cf2ba966c75effe06d72b96514a8",
+      "byte_size": 2430013,
+      "url": "packs/PACK-MVP-CORE/16.json",
+      "min_app_version_code": 17,
+      "notes": "能力检测：227 道题带上检测标注（槽位、信息充分性、计算要求、任务匹配规格），供能力页的「能力检测」组卷。\n新增 13 道练习题，分布在样本与证据、因果与解释、数字与信息、问题解决，每道与一道已有题按同一设计配对，两次检测之间可以对照。\n6 道配对题调整了一列的排列顺序，答案不再能按位置猜出；题意和答案不变。"
     },
     {
       "pack_id": "PACK-MVP-EXT-01",
